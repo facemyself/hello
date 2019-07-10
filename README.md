@@ -1,2 +1,2 @@
 # hello
-it is a practice
+it is a practice to
